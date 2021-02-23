@@ -1,0 +1,15 @@
+body{
+    position: relative;
+    top: blue;
+    left: red;
+
+}
+#kulso{
+    background-color: red;
+}
+#kozepso{
+    background-color: green;
+}
+#belso{
+    background-color: blue;
+}
